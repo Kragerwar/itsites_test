@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "1984",
+    "image": "https://book24.ua/upload/iblock/a94/a94154891023a0965fb293cf72f987fd.jpg",
+    "author": "Оруэлл Джордж",
+    "number_of_pages": 320,
+    "language": "Російська",
+    "year_of_publication": 2020,
+    "price": 120
+  },
+  {
+    "id": 2,
+    "title": "Хроніки поцуплених роверів",
+    "image": "https://book24.ua/upload/resize_cache/iblock/8d6/450_450_140cd750bba9870f18aada2478b24840a/8d6209d6ff966bbe8ca54728874cf7c4.png",
+    "author": "Ву Мінь",
+    "number_of_pages": 384,
+    "language": "Українська",
+    "year_of_publication": 2021,
+    "price": 250
+  },
+  {
+    "id": 3,
+    "title": "Маленькі жінки",
+    "image": "https://book24.ua/upload/resize_cache/iblock/6a7/450_450_140cd750bba9870f18aada2478b24840a/6a7b66fdf6932c55dff801b3c750ca20.jpg",
+    "author": "Луіза Мей Олкотт",
+    "number_of_pages": 384,
+    "language": "Російська",
+    "year_of_publication": 2020,
+    "price": 120
+  },
+  {
+    "id": 4,
+    "title": "Гордість та упередження",
+    "image": "https://book24.ua/upload/resize_cache/iblock/bd5/450_450_140cd750bba9870f18aada2478b24840a/bd5df8258c6fbfb9ef1eff7e63ffbe7e.jpg",
+    "author": "Остен Джейн",
+    "number_of_pages": 476,
+    "language": "Російська",
+    "year_of_publication": 2017,
+    "price": 76
+  },
+  {
+    "id": 5,
+    "title": "Ремарк",
+    "image": "https://book24.ua/upload/iblock/38e/38eb17d7a3c80693a254c270c6660ad7.jpg",
+    "author": "Эрих Мария",
+    "number_of_pages": 640,
+    "language": "Російська",
+    "year_of_publication": 2020,
+    "price": 140
+  },
+  {
+    "id": 6,
+    "title": "Один в океане",
+    "image": "https://book24.ua/upload/resize_cache/iblock/069/450_450_140cd750bba9870f18aada2478b24840a/06969d5c84d0c2e5df218801b28728c1.jpg",
+    "author": "Слава Курилов",
+    "number_of_pages": 248,
+    "language": "Російська",
+    "year_of_publication": 2020,
+    "price": 266
+  },
+  {
+    "id": 7,
+    "title": "О чудовий новий світ",
+    "image": "https://book24.ua/upload/iblock/f18/f1866f9edab9347d082f6469677352db.jpg",
+    "author": "Олдос Хакслі",
+    "number_of_pages": 352,
+    "language": "Російська",
+    "year_of_publication": 2019,
+    "price": 124
+  },
+  {
+    "id": 8,
+    "title": "Цивілізація статусу",
+    "image": "https://book24.ua/upload/iblock/047/047fe5840e1012f6088a86792cf33846.jpg",
+    "author": "Роберт Шеклі",
+    "number_of_pages": 208,
+    "language": "Українська",
+    "year_of_publication": 2020,
+    "price": 67
+  },
+  {
+    "id": 9,
+    "title": "Портрет Доріана Грея",
+    "image": "https://book24.ua/upload/iblock/8e1/8e1d2d80d344c31bd40c31458ed61df9.jpg",
+    "author": "Оскар Уайльд",
+    "number_of_pages": 320,
+    "language": "Російська",
+    "year_of_publication": 2018,
+    "price": 57
+  },
+  {
+    "id": 10,
+    "title": "Аркан вовків",
+    "image": "https://book24.ua/upload/iblock/e11/e1196de48880d0407cd13878a4fdb1db.jpg",
+    "author": "Дерев’янко Павло",
+    "number_of_pages": 448,
+    "language": "Українська",
+    "year_of_publication": 2019,
+    "price": 220
+  },
+  {
+    "id": 11,
+    "title": "Уздовж океану на ровері",
+    "image": "https://book24.ua/upload/iblock/087/087275ca6c2c9ee79c664a879e42acab.jpg",
+    "author": "Василь Махно",
+    "number_of_pages": 336,
+    "language": "Українська",
+    "year_of_publication": 2020,
+    "price": 160
+  },
+  {
+    "id": 12,
+    "title": "Процес",
+    "image": "https://book24.ua/upload/iblock/a03/a034b17901e7ce81054942237f6ec302.jpg",
+    "author": "Франц Кафка",
+    "number_of_pages": 352,
+    "language": "Російська",
+    "year_of_publication": 2016,
+    "price": 80
+  },
+  {
+    "id": 13,
+    "title": "Троє в човні не рахуючи собаки",
+    "image": "https://book24.ua/upload/iblock/a9f/a9fa1805523512f72db17ace091492dd.jpg",
+    "author": "Джером Клапка Джером",
+    "number_of_pages": 288,
+    "language": "Російська",
+    "year_of_publication": 2018,
+    "price": 60
+  },
+  {
+    "id": 14,
+    "title": "Норвезький ліс",
+    "image": "https://book24.ua/upload/iblock/e96/e96331e02016fb4a13deef512f663310.jpg",
+    "author": "Харукі Муракамі",
+    "number_of_pages": 384,
+    "language": "Російська",
+    "year_of_publication": 2019,
+    "price": 110
+  },
+  {
+    "id": 15,
+    "title": "Останній листок",
+    "image": "https://book24.ua/upload/iblock/70e/70e45ca6532063d64d52ecf219ebfba0.jpg",
+    "author": "О. Генрі",
+    "number_of_pages": 96,
+    "language": "Українська",
+    "year_of_publication": 2019,
+    "price": 67
+  },
+  {
+    "id": 16,
+    "title": "Нью-Йорк",
+    "image": "https://book24.ua/upload/iblock/50e/50e9a52a0dd3a1790163f40b47bc4c02.jpg",
+    "author": "Едвард Резерфорд",
+    "number_of_pages": 832,
+    "language": "Російська",
+    "year_of_publication": 2016,
+    "price": 330
+  },
+  {
+    "id": 17,
+    "title": "Грозовий перевал",
+    "image": "https://book24.ua/upload/iblock/022/0223c9530fce3356497da1037799fa42.jpg",
+    "author": "Емілі Бронте",
+    "number_of_pages": 384,
+    "language": "Російська",
+    "year_of_publication": 2017,
+    "price": 57
+  },
+  {
+    "id": 18,
+    "title": "У пітьмі",
+    "image": "https://book24.ua/upload/iblock/467/46764d6467d124149acb7fb25584550a.jpg",
+    "author": "Майк Омер",
+    "number_of_pages": 400,
+    "language": "Українська",
+    "year_of_publication": 2021,
+    "price": 220
+  },
+  {
+    "id": 19,
+    "title": "Усмішка",
+    "image": "https://book24.ua/upload/iblock/434/4347f2fb5f07e7eff9ba6bf55d0d81c5.JPG",
+    "author": "Рей Бредбері",
+    "number_of_pages": 368,
+    "language": "Українська",
+    "year_of_publication": 2016,
+    "price": 85
+  },
+  {
+    "id": 20,
+    "title": "Та, що біжить по хвилях",
+    "image": "https://book24.ua/upload/iblock/6f6/6f65d3e4aae065778bfc5b96e7e5ef38.jpg",
+    "author": "Олександр Грін",
+    "number_of_pages": 384,
+    "language": "Російська",
+    "year_of_publication": 2016,
+    "price": 60
+  }
+]
